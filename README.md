@@ -27,3 +27,5 @@ zbctl create instance angrybird
 ```
 
 Navigate to operate and watch your instance :)
+
+![angrybirds in operate](bpmn/angrybirds-operate.png)
