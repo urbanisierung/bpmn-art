@@ -2,7 +2,7 @@
 
 Like ascii art but with bpmn models.
 
-This was a little fun project of my kids and me: creating coloring pictures with BPMN models together.
+This is a little fun project of my kids and me: creating coloring pictures with BPMN models together. First result: angrybirds
 
 ## Angrybirds
 
