@@ -34,6 +34,14 @@ Navigate to operate and watch your instance :)
 
 ![unicorn](bpmn/unicorn.png)
 
-### Operate
+### Unicorn Operate
 
 ![unicorn](bpmn/unicorn-operate.png)
+
+## Elephant
+
+![unicorn](bpmn/elephant.png)
+
+### Elephant Operate
+
+![unicorn](bpmn/elephant-operate.png)
